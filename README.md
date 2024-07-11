@@ -7,6 +7,8 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FelipeOropeza&layout=compact&langs_count=8&card_width=320&theme=dark#gh-dark-mode-only" />
 </a>
 <br>
+
+## Tecnologias utilizadas
 <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Felipe-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
