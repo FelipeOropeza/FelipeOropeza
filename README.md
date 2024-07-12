@@ -1,8 +1,7 @@
 <h1>Desenvolvedor Back-End!</h1> 
 
 ![1_L_QoAG863l8QvqxpNyBiqw](https://github.com/user-attachments/assets/bd704ebe-c21c-461b-b48f-4a9d667232d4)
-![images](https://github.com/user-attachments/assets/ffe10022-944c-4a27-937c-c2cea5117bfd)
-
+<iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p>
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
