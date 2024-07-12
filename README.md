@@ -25,7 +25,7 @@
   <img align="center" alt="Felipe-MongoDB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
 </div>
   
-  <br><br>
+  <br>
 
 ## Rede Social
 <div> 
