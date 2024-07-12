@@ -38,7 +38,8 @@
   <a href="https://www.linkedin.com/in/felipeoropeza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<a href="https://github.com/FelipeOropeza">
+<br>
+
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeOropeza&theme=dark&hide_progress=true" /></p>
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeOropeza&theme=dark&hide_progress=true)
-</a>
