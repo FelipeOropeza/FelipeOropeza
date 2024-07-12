@@ -1,10 +1,9 @@
-<h1>Desenvolvedor Back-End!</h1> 
-
 ![1_L_QoAG863l8QvqxpNyBiqw](https://github.com/user-attachments/assets/bd704ebe-c21c-461b-b48f-4a9d667232d4)
 
-<br>
+<h1 align="justify">Hi there 👋,I'm Felipe Carvalho back end developer</h1>
+<h3 align="justify">📌 </h3>
 
-## Tecnologias utilizadas
+## Technologies used
 <div style="display: flex; "><br>
   <img align="center" alt="Felipe-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Felipe-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
@@ -19,7 +18,7 @@
   
   <br>
 
-## Rede Social
+## Social network
 <div> 
   <a href = "mailto:felipe2006.co@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipeoropeza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
