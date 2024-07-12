@@ -7,7 +7,9 @@
 <a href="https://github.com/FelipeOropeza">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FelipeOropeza&layout=compact&langs_count=8&card_width=320&theme=dark#gh-dark-mode-only" />
 </a>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeOropeza&theme=dark&hide_progress=true)
+<a href="https://github.com/FelipeOropeza">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeOropeza&theme=dark&hide_progress=true)
+</a>
 <br>
 
 ## Tecnologias utilizadas
