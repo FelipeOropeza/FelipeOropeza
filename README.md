@@ -1,4 +1,4 @@
-## Oiii eu sou o Felipe Carvalho, Desenvolvedor Back-End!
+## Desenvolvedor Back-End!
 
 <a href="https://github.com/FelipeOropeza">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=FelipeOropeza&theme=dark#gh-dark-mode-only" />
