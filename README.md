@@ -1,5 +1,7 @@
 <h1>Desenvolvedor Back-End!</h1> 
 
+![1_L_QoAG863l8QvqxpNyBiqw](https://github.com/user-attachments/assets/bd704ebe-c21c-461b-b48f-4a9d667232d4)
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
