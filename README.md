@@ -1,6 +1,20 @@
 <h1>Desenvolvedor Back-End!</h1> 
 
 <br><br>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 <a href="https://github.com/FelipeOropeza">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=FelipeOropeza&theme=dark#gh-dark-mode-only" />
 </a>
