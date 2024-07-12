@@ -24,7 +24,7 @@
 
 <a href="https://github.com/FelipeOropeza">
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark#gh-dark-mode-only&hide_progress=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeOropeza&theme=dark&hide_progress=true)
 </a>
 <br>
 
