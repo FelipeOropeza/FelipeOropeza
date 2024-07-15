@@ -2,9 +2,10 @@
 
 <h1 align="justify">Hi there 👋,I'm Felipe Carvalho back end developer</h1>
 <h3 align="justify">📌 The back-end developer is learning front-end to expand their skills and create more dynamic interfaces. </h3>
+<br>
 
 ## Technologies used
-<div style="display: flex; "><br>
+<div style="display: flex; ">
   <img align="center" alt="Felipe-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Felipe-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
   <img align="center" alt="Felipe-NodeJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
