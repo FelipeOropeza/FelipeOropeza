@@ -1,7 +1,7 @@
 ![1_L_QoAG863l8QvqxpNyBiqw](https://github.com/user-attachments/assets/bd704ebe-c21c-461b-b48f-4a9d667232d4)
 
 <h1 align="justify">Hi there 👋,I'm Felipe Carvalho back end developer</h1>
-<h3 align="justify">📌The back-end developer is learning front-end to expand their skills and create more dynamic interfaces. </h3>
+<h3 align="justify">📌 The back-end developer is learning front-end to expand their skills and create more dynamic interfaces. </h3>
 
 ## Technologies used
 <div style="display: flex; "><br>
