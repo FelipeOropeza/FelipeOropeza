@@ -28,4 +28,4 @@
 
 <br>
 
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeOropeza&theme=dark&hide_progress=true" /></p>
+<p align="center"> <img align="center" alt="felipe-oropeza" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeOropeza&theme=dark&hide_progress=true" /></p>
