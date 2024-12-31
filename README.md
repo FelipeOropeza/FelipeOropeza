@@ -2,7 +2,10 @@
 
 # Hi there 👋, I'm Felipe Carvalho
 
-📌 I'm a passionate back-end developer learning front-end to expand my skills and create more dynamic applications.
+### 📌 I'm a passionate back-end developer currently studying Analysis and Systems Development (ADS) at FATEC Carapicuíba. I'm expanding my skills by learning front-end technologies to create more dynamic applications. I am actively looking for an internship or freelance opportunities to gain real-world experience and contribute to exciting projects.
+
+
+</br>
 
 ## Technologies I Use
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
@@ -16,6 +19,7 @@
   <img align="center" alt="Felipe-Mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Felipe-MongoDB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
 </div>
+</br>
 
 ## Technologies I'm Learning
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
@@ -24,12 +28,14 @@
   <img align="center" alt="Felipe-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="center" alt="Felipe-PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" />
 </div>
+</br>
 
 ## Find Me On
 <div>
   <a href = "mailto:felipe2006.co@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipeoropeza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+</br>
 
 ## GitHub Stats
 <p align="center"> <img align="center" alt="felipe-oropeza" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeOropeza&theme=dark&hide_progress=true" />
