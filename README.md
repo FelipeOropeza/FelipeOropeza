@@ -41,5 +41,12 @@
 </br>
 
 ## GitHub Stats
-<p align="center"> <img align="center" alt="felipe-oropeza" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeOropeza&theme=dark&hide_progress=true" />
+
+<p align="center">
+  <img alt="felipe-oropeza" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeOropeza&theme=dark&hide_progress=true" width="38%" />
+  <img alt="felipe-oropeza" src="https://github-readme-stats.vercel.app/api?username=FelipeOropeza&rank_icon=github&theme=dark" width=41%" />
+</p>
+
+
+
 
