@@ -33,6 +33,7 @@
   <img align="center" alt="Felipe-Laravel" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
   <img align="center" alt="Felipe-Livewire" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original.svg" />
   <img align="center" alt="Felipe-Alpinejs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/alpinejs/alpinejs-original.svg" />
+  <img align="center" alt="Felipe-Electron" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" />
 </div>
 </br>
 
